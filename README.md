@@ -8,7 +8,7 @@ which is needed for [WebUI-GMod](https://github.com/smokingplaya/webui-gmod) lib
 | Platform | Link |
 |:---:|:---:|
 | Windows x32 (default) | [Download](https://github.com/smokingplaya/webui-server/releases/latest/download/gmsv_webui_server_win32.dll) |
-| Windows x64 | [Download](https://github.com/smokingplaya/webui-server/releases/latest/download/gmsv_webui_server_win32.dll) |
+| Windows x64 | [Download](https://github.com/smokingplaya/webui-server/releases/latest/download/gmsv_webui_server_win64.dll) |
 | Linux x32 (default) | [Download](https://github.com/smokingplaya/webui-server/releases/latest/download/gmsv_webui_server_linux.dll) |
 | Linux x64 | [Download](https://github.com/smokingplaya/webui-server/releases/latest/download/gmsv_webui_server_linux64.dll) |
 
