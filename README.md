@@ -7,10 +7,10 @@ which is needed for [WebUI-GMod](https://github.com/smokingplaya/webui-gmod) lib
 
 | Platform | Link |
 |:---:|:---:|
-| Windows x32 (default) | [Download](gmsv_webui_server_win32.dll) |
-| Windows x64 | [Download](gmsv_webui_server_win32.dll) |
-| Linux x32 (default) | [Download](gmsv_webui_server_linux.dll) |
-| Linux x64 | [Download](gmsv_webui_server_linux64.dll) |
+| Windows x32 (default) | [Download](https://github.com/smokingplaya/webui-server/releases/latest/download/gmsv_webui_server_win32.dll) |
+| Windows x64 | [Download](https://github.com/smokingplaya/webui-server/releases/latest/download/gmsv_webui_server_win32.dll) |
+| Linux x32 (default) | [Download](https://github.com/smokingplaya/webui-server/releases/latest/download/gmsv_webui_server_linux.dll) |
+| Linux x64 | [Download](https://github.com/smokingplaya/webui-server/releases/latest/download/gmsv_webui_server_linux64.dll) |
 
 # Logic
 Enables in a separate thread a web server on the specified port that sends files from ``GarrysMod(DS)/garrysmod/webui``.
