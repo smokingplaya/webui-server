@@ -21,7 +21,7 @@ jobs:
         profile: default
         toolchain: nightly
     - run: cargo build --release
-    - uses: actions/upload-artifact@v2
+    - uses: actions/upload-artifact@v4
       with:
         name: gmsv_webui_server_linux.dll
         path: target/release/libwebui_server.so
@@ -41,7 +41,7 @@ jobs:
         profile: default
         toolchain: nightly
     - run: cargo build --release
-    - uses: actions/upload-artifact@v2
+    - uses: actions/upload-artifact@v4
       with:
         name: gmsv_webui_server_linux64.dll
         path: target/release/libwebui_server.so
@@ -61,7 +61,7 @@ jobs:
         profile: default
         toolchain: nightly
     - run: cargo build --release
-    - uses: actions/upload-artifact@v2
+    - uses: actions/upload-artifact@v4
       with:
         name: gmsv_webui_server_win64.dll
         path: target/release/webui_server.dll
@@ -81,7 +81,7 @@ jobs:
         profile: default
         toolchain: nightly
     - run: cargo build --release
-    - uses: actions/upload-artifact@v2
+    - uses: actions/upload-artifact@v4
       with:
         name: gmsv_webui_server_win32.dll
         path: target/release/webui_server.dll
